@@ -288,7 +288,12 @@ Secuencia: [precio_día1, precio_día2, ..., precio_día365]
    - Attention puede ver TODA la secuencia
    - Memoria explícita de eventos pasados
 ```
-FOTOS SAGE MAKER
+## CAPTURAS DE PANTALLA 
+
+![image-example](screnshots/image.png)
+![image-example](screnshots/image2.png)
+![image-example](screnshots/image3.png)
+![image-example](screnshots/image4.png)
 
 ## Autor
 
